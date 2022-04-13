@@ -8,8 +8,6 @@ import android.util.Log
 import java.io.IOException
 import java.util.*
 
-// TODO(Step 1: Create a AsyncTask class fot getting an address from the latitude and longitude from the location provider.)
-
 
 class GetAddressFromLatLng(
     context: Context, private val latitude: Double,
